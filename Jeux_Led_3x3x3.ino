@@ -6,7 +6,7 @@
 
 	Ce programme permet de contrôler l'allumage 
 	d'une matrice cubique des leds de taille 3x3x3
-	sous arduino arduino ou carte compatible avec l'IDE arduino
+	sous arduino ou carte compatible avec l'IDE arduino
 */
 
 #include "Matrix_3x3x3.h"
