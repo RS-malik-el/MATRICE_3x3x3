@@ -1,0 +1,21 @@
+##########################################
+# Syntax Coloring Map For Matrix_3x3x3
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Matrix_3x3x3	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+Init_Random			(KEYWORD2)
+AttachPinRow		(KEYWORD2)
+AttachPinColumn		(KEYWORD2)
+Play_OneByOne		(KEYWORD2)
+Play_ThreeByThree	(KEYWORD2)
+Play_PlanByPlan		(KEYWORD2)
+Play_Randomly		(KEYWORD2)
+###########################################
